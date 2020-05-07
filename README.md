@@ -1,2 +1,2 @@
-# Stepik-Selenium-course-
+# Stepik-Selenium-Course
 homework Stepik
